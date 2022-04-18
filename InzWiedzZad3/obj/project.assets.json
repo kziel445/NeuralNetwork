@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\C#\\knn\\knnForDataSets\\InzWiedzZad3\\InzWiedzZad3.csproj",
+      "projectUniqueName": "D:\\Projects\\C#\\knn\\InzWiedzZad3\\InzWiedzZad3.csproj",
       "projectName": "InzWiedzZad3",
-      "projectPath": "D:\\Projects\\C#\\knn\\knnForDataSets\\InzWiedzZad3\\InzWiedzZad3.csproj",
+      "projectPath": "D:\\Projects\\C#\\knn\\InzWiedzZad3\\InzWiedzZad3.csproj",
       "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\C#\\knn\\knnForDataSets\\InzWiedzZad3\\obj\\",
+      "outputPath": "D:\\Projects\\C#\\knn\\InzWiedzZad3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
